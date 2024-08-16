@@ -6,7 +6,7 @@ in addition we were asked to add a digital signature by using hashing.</p>
 <H2>Bibliography</H2>
 <p>Below are the articles and academic papers that helped us implement the algorithms in python:</p>
 <ul>
-  <li>1. <a src="https://www.rfc-editor.org/rfc/rfc2144.html">Cast-128</li>
-  <li>2. <a src="https://www.geeksforgeeks.org/rsa-algorithm-cryptography/">RSA</li>
-  <li>3. <a src="https://www.geeksforgeeks.org/elgamal-encryption-algorithm/?ref=header_outind">El-Gamal</li>
+  <li>1. <a href="https://www.rfc-editor.org/rfc/rfc2144.html">Cast-128</li>
+  <li>2. <a href="https://www.geeksforgeeks.org/rsa-algorithm-cryptography/">RSA</li>
+  <li>3. <a href="https://www.geeksforgeeks.org/elgamal-encryption-algorithm/?ref=header_outind">El-Gamal</li>
 </ul>
